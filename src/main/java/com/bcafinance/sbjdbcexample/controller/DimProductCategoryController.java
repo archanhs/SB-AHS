@@ -1,4 +1,4 @@
-package edu.archan.sbjdbcexample.controller;
+package com.bcafinance.sbjdbcexample.controller;
 /*
 Created By IntelliJ IDEA 2022.2.3 (Community Edition) 
 @Author ASUS a.k.a. Archan
@@ -8,8 +8,8 @@ Created on 22/11/2022
 Version 1.0
 */
 
-import edu.archan.sbjdbcexample.model.DimProductCategory;
-import edu.archan.sbjdbcexample.repository.DimProductCategoryRepository;
+import com.bcafinance.sbjdbcexample.model.DimProductCategory;
+import com.bcafinance.sbjdbcexample.repository.DimProductCategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

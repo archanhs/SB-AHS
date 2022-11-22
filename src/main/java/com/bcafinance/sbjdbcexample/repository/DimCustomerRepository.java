@@ -1,6 +1,6 @@
-package edu.archan.sbjdbcexample.repository;
+package com.bcafinance.sbjdbcexample.repository;
 
-import edu.archan.sbjdbcexample.model.DimCustomer;
+import com.bcafinance.sbjdbcexample.model.DimCustomer;
 
 import java.util.List;
 

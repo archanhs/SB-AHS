@@ -1,4 +1,4 @@
-package edu.archan.sbjdbcexample.repository;
+package com.bcafinance.sbjdbcexample.repository;
 /*
 Created By IntelliJ IDEA 2022.2.3 (Community Edition) 
 @Author ASUS a.k.a. Archan
@@ -8,7 +8,7 @@ Created on 22/11/2022
 Version 1.0
 */
 
-import edu.archan.sbjdbcexample.model.DimProductCategory;
+import com.bcafinance.sbjdbcexample.model.DimProductCategory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

@@ -1,7 +1,7 @@
-package edu.archan.sbjdbcexample.controller;
+package com.bcafinance.sbjdbcexample.controller;
 
-import edu.archan.sbjdbcexample.model.DimScenario;
-import edu.archan.sbjdbcexample.repository.DimScenarioRepository;
+import com.bcafinance.sbjdbcexample.model.DimScenario;
+import com.bcafinance.sbjdbcexample.repository.DimScenarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

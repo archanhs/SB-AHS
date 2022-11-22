@@ -1,4 +1,4 @@
-package edu.archan.sbjdbcexample.model;
+package com.bcafinance.sbjdbcexample.model;
 /*
 Created By IntelliJ IDEA 2022.2.3 (Community Edition) 
 @Author ASUS a.k.a. Archan

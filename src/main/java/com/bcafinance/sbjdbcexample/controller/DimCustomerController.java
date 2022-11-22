@@ -1,7 +1,7 @@
-package edu.archan.sbjdbcexample.controller;
+package com.bcafinance.sbjdbcexample.controller;
 
-import edu.archan.sbjdbcexample.model.DimCustomer;
-import edu.archan.sbjdbcexample.repository.DimCustomerRepository;
+import com.bcafinance.sbjdbcexample.model.DimCustomer;
+import com.bcafinance.sbjdbcexample.repository.DimCustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

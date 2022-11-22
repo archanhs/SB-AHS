@@ -1,4 +1,4 @@
-package edu.archan.sbjdbcexample.model;
+package com.bcafinance.sbjdbcexample.model;
 
 
 public class DimScenario {

@@ -1,4 +1,4 @@
-package edu.archan.sbjdbcexample;
+package com.bcafinance.sbjdbcexample;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

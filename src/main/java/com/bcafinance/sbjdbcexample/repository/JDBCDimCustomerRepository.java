@@ -1,7 +1,7 @@
-package edu.archan.sbjdbcexample.repository;
+package com.bcafinance.sbjdbcexample.repository;
 
 
-import edu.archan.sbjdbcexample.model.DimCustomer;
+import com.bcafinance.sbjdbcexample.model.DimCustomer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

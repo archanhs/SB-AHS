@@ -1,4 +1,4 @@
-package edu.archan.sbjdbcexample.repository;
+package com.bcafinance.sbjdbcexample.repository;
 /*
 Created By IntelliJ IDEA 2022.2.3 (Community Edition) 
 @Author ASUS a.k.a. Archan
@@ -9,7 +9,7 @@ Version 1.0
 */
 
 
-import edu.archan.sbjdbcexample.model.DimProductCategory;
+import com.bcafinance.sbjdbcexample.model.DimProductCategory;
 
 import java.util.List;
 
